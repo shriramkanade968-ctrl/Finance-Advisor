@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Advisor Bot",
+  "description": "AI-powered personal financial planning assistant for income and expense tracking, intelligent budget generation, spending insights, and goal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
